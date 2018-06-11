@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f27f2fbb-3fbd-491c-80f9-ebea7cce3ee9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/center/target/" />
+    <ignored path="$PROJECT_DIR$/client/target/" />
+    <ignored path="$PROJECT_DIR$/server/target/" />
+    <ignored path="$PROJECT_DIR$/serverclient/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="MainLancher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/MainLancher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiscoveryTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/DiscoveryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiscoveryClient.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="557" column="6" lean-forward="true" selection-start-line="557" selection-start-column="6" selection-end-line="557" selection-end-column="6" />
+              <folding>
+                <element signature="e#24192#24193#0" expanded="true" />
+                <element signature="e#24236#24237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractJerseyEurekaHttpClient.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="824">
+              <caret line="206" column="32" lean-forward="true" selection-start-line="206" selection-start-column="32" selection-end-line="206" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicReference.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="83" column="19" lean-forward="false" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+              <folding>
+                <element signature="e#1707#1708#0" expanded="true" />
+                <element signature="e#1735#1736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaHttpClient.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/shared/transport/EurekaHttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RetryableEurekaHttpClient.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/shared/transport/decorator/RetryableEurekaHttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTestVerticle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/verticle/MyTestVerticle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaBridge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/verticle/EurekaBridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceImporter.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-service-discovery/3.5.1/vertx-service-discovery-3.5.1-sources.jar!/io/vertx/servicediscovery/spi/ServiceImporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="49" column="38" lean-forward="false" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsulServiceImporter.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-service-discovery-bridge-consul/3.5.1/vertx-service-discovery-bridge-consul-3.5.1-sources.jar!/io/vertx/servicediscovery/consul/ConsulServiceImporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20">
+              <caret line="99" column="17" lean-forward="true" selection-start-line="99" selection-start-column="17" selection-end-line="99" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportedConsulService.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-service-discovery-bridge-consul/3.5.1/vertx-service-discovery-bridge-consul-3.5.1-sources.jar!/io/vertx/servicediscovery/consul/ImportedConsulService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="65" column="60" lean-forward="false" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eureka/client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="46" column="29" lean-forward="false" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>initScheduledTasks</find>
+      <find>url</find>
+      <find>configInstance</find>
+      <find>configInstance =</find>
+      <find>DEFAULT_URL</find>
+      <find>clientConfig</find>
+      <find>queryClient</find>
+      <find>getApplicationsInternal</find>
+      <find>getApplications</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/..//////demo4" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/center/src/main/java/edu/bian/CenterBootstrap.java" />
+        <option value="$PROJECT_DIR$/center/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/center/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/center/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/center/src/main/java/edu/bian/CenterBootstrap.java" />
+        <option value="$PROJECT_DIR$/center/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/server/src/main/java/edu/bian/ServerBootstrap.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/serverclient/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/serverclient/pom.xml" />
+        <option value="$PROJECT_DIR$/serverclient/src/main/java/edu/bian/ServerClientBootstrap.java" />
+        <option value="$PROJECT_DIR$/serverclient/src/main/java/edu/bian/feign/TestFeign.java" />
+        <option value="$PROJECT_DIR$/serverclient/src/main/java/edu/bian/rest/TestRest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/edu/bian/rest/TestRest.java" />
+        <option value="$PROJECT_DIR$/../eureka/client/src/main/resources/eureka-client.properties" />
+        <option value="$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/DiscoveryTest.java" />
+        <option value="$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/MainLancher.java" />
+        <option value="$PROJECT_DIR$/../eureka/client/pom.xml" />
+        <option value="$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/verticle/EurekaBridge.java" />
+        <option value="$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/verticle/MyTestVerticle.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/dev/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\dev\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bian" type="462c0819:PsiDirectoryNode" />
+              <item name="verticle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="getApplicationsInternal&#9;PSI&#9;JAVA://com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient#getApplicationsInternal&#10;DiscoveryClient&#9;PSI&#9;JAVA://com.netflix.discovery.DiscoveryClient" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DiscoveryTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="DiscoveryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.bian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.bian.DiscoveryTest" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="client" />
+      <envs />
+    </configuration>
+    <configuration name="MainLancher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.bian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.bian.MainLancher" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="client" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="CenterBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.bian.CenterBootstrap" />
+      <module name="center" />
+      <envs />
+    </configuration>
+    <configuration name="ServerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.bian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.bian.ServerBootstrap" />
+      <module name="server" />
+      <envs />
+    </configuration>
+    <configuration name="ServerClientBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.bian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.bian.ServerClientBootstrap" />
+      <module name="serverclient" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.CenterBootstrap" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DiscoveryTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainLancher" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ServerBootstrap" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.ServerClientBootstrap" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.DiscoveryTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainLancher" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.ServerClientBootstrap" />
+        <item index="3" class="java.lang.String" itemvalue="Spring Boot.ServerBootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f27f2fbb-3fbd-491c-80f9-ebea7cce3ee9" name="Default" comment="" />
+      <created>1528721903776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528721903776</updated>
+      <workItem from="1528721911260" duration="453000" />
+      <workItem from="1528722378339" duration="414000" />
+      <workItem from="1528722800040" duration="291000" />
+      <workItem from="1528723111339" duration="154000" />
+      <workItem from="1528723287417" duration="841000" />
+      <workItem from="1528724158150" duration="5696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7849000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5140292" sideWeight="0.5064378" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1335837" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33445567" sideWeight="0.49356222" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.49785408" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.49785408" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36363637" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.49785408" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30418456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.7.RELEASE/spring-cloud-netflix-eureka-client-1.2.7.RELEASE.jar!/org/springframework/cloud/netflix/eureka/CloudEurekaClient.class</url>
+          <line>23</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.7.RELEASE/spring-cloud-netflix-eureka-client-1.2.7.RELEASE.jar!/org/springframework/cloud/netflix/eureka/CloudEurekaClient.class</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../eureka/center/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/center/src/main/java/edu/bian/CenterBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/apache-maven-3.5.2/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="200" column="1" lean-forward="true" selection-start-line="200" selection-start-column="1" selection-end-line="200" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/center/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/center/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/serverclient/src/main/java/edu/bian/rest/TestRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/server/src/main/java/edu/bian/rest/TestRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/serverclient/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/serverclient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/server/src/main/java/edu/bian/ServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#325#326#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12.jar!/com/netflix/discovery/DiscoveryClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="77" column="13" lean-forward="false" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+          <folding>
+            <marker date="1528723037590" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528723037590" expanded="false" signature="145:3393" ph="..." />
+            <marker date="1528723037590" expanded="true" signature="3755:3773" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="5946:5964" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="6056:6158" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="6164:6182" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="6324:6397" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="6500:6628" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="6787:8446" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="6871:8438" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="6995:8428" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="8653:14872" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="15017:18053" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="15609:15728" ph="getApplications(stalenessThreshold, timeUnit) → {" />
+            <marker date="1528723037590" expanded="false" signature="16285:16300" ph="}" />
+            <marker date="1528723037590" expanded="false" signature="18108:18119" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="18144:18150" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="18206:18287" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="18330:18341" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="18389:18395" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="18472:18639" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="18685:19091" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="19151:19603" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="19609:19627" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="19718:20000" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="20077:20473" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="20547:20558" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="20597:20603" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="20683:20748" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="20840:20958" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="21075:21946" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="22064:24453" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="24543:25136" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="25197:26131" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="26173:26870" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="26892:27824" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="27830:27848" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="27959:28070" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="28128:29050" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="29074:29735" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="29803:31731" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="31792:32687" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="32740:32751" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="32788:32794" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="32863:33404" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="33466:34764" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="34845:36615" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="36654:37133" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="37241:39959" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="40010:43237" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="43277:45840" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="44708:45419" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="44747:44770" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="44800:44818" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="44892:45405" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="45882:46310" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="46316:46334" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="46442:46570" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="46576:46594" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="46672:46778" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="46784:46802" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="46916:46996" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="47029:47609" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="47688:47699" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="47734:47740" ph=" }" />
+            <marker date="1528723037590" expanded="false" signature="47799:47810" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="47835:47841" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="47897:48561" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="48613:51500" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="51545:53038" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="53044:53062" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="53067:53092" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="53228:53256" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="53319:54139" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="54195:54206" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="54253:54259" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="54354:54430" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="54469:54480" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="54522:54528" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="54578:54799" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="54805:54823" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="54894:55061" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="55067:55085" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="55139:55344" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="55350:55368" ph="/**...*/" />
+            <marker date="1528723037590" expanded="true" signature="55492:55604" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="55661:55836" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="55897:56084" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="56090:56300" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="56365:56549" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="56555:56777" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="56846:57033" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="57039:57214" ph="@{...}" />
+            <marker date="1528723037590" expanded="false" signature="57249:57260" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="57285:57291" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="57351:57445" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="57496:57635" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="57527:57538" ph="{}" />
+            <marker date="1528723037590" expanded="false" signature="57565:57580" ph=" { " />
+            <marker date="1528723037590" expanded="false" signature="57619:57629" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="57691:57946" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="57727:57738" ph="{}" />
+            <marker date="1528723037590" expanded="true" signature="57766:57940" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="58000:60213" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="58368:58379" ph="{}" />
+            <marker date="1528723037590" expanded="true" signature="58389:58435" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="58510:58687" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="58697:58743" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="58801:59127" ph="{...}" />
+            <marker date="1528723037590" expanded="false" signature="58954:59059" ph="onEvent(event) → { " />
+            <marker date="1528723037590" expanded="false" signature="59083:59115" ph=" }" />
+            <marker date="1528723037590" expanded="true" signature="59137:59183" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="59294:59381" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="59391:59437" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="59545:59630" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="59640:59686" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="59772:59839" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="59849:59895" ph="@{...}" />
+            <marker date="1528723037590" expanded="true" signature="59977:60046" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="60101:60207" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="60262:61408" ph="{...}" />
+            <marker date="1528723037590" expanded="true" signature="60640:60651" ph="{}" />
+            <marker date="1528723037590" expanded="true" signature="60677:61402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/serverclient/src/main/java/edu/bian/feign/TestFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/serverclient/src/main/java/edu/bian/ServerClientBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/center/src/main/java/edu/bian/CenterBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.7.RELEASE/spring-cloud-netflix-eureka-client-1.2.7.RELEASE.jar!/org/springframework/cloud/netflix/eureka/CloudEurekaClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12.jar!/com/netflix/discovery/shared/transport/decorator/RetryableEurekaHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2924">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/archaius/archaius-core/0.7.4/archaius-core-0.7.4.jar!/com/netflix/config/ConfigurationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="118" column="24" lean-forward="false" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.7.RELEASE/spring-cloud-netflix-eureka-client-1.2.7.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2025">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528723009780" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1528723009780" expanded="false" signature="164:652" ph="..." />
+            <marker date="1528723009780" expanded="true" signature="842:884" ph="@{...}" />
+            <marker date="1528723009780" expanded="false" signature="3126:3137" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="3161:3167" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="3224:3235" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="3276:3282" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="3329:3340" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="3371:3377" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="3426:3437" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="3470:3476" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="3517:3528" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="3553:3559" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="3600:3611" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="3636:3642" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="3693:3704" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="3743:3749" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="3807:3989" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="4057:5021" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="5068:5079" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="5104:5110" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="5160:5171" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="5205:5211" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="5253:5264" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="5290:5296" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="5333:5344" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="5371:5377" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="5432:5443" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="5482:5488" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="5537:5707" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="5762:5773" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="5800:5806" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="5844:6445" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="6496:6507" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="6536:6542" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="6574:6585" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="6605:6611" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="6660:6671" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="6693:6699" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="6749:6760" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="6801:6807" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="6867:6878" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="6929:6935" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="7003:7077" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="7134:7145" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7193:7199" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7233:7244" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7266:7272" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7306:7317" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7339:7345" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7383:7394" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7420:7426" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7464:7475" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7501:7507" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7559:7570" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7613:7619" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7674:7685" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7731:7737" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7780:7791" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7822:7828" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7878:7889" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="7930:7936" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="7993:8004" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8052:8058" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8105:8116" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8151:8157" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8198:8209" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8238:8244" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8288:8299" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8331:8337" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8368:8379" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8398:8404" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8460:8471" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8518:8524" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8580:8591" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8635:8641" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8694:8705" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8749:8755" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8817:8828" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="8881:8887" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="8943:8954" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9001:9007" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="9073:9145" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="9193:9204" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9227:9233" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="9269:9280" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9304:9310" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="9363:9374" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9415:9421" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="9464:9475" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9506:9512" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="9557:9568" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9601:9607" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="9644:9655" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9680:9686" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="9723:9734" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9759:9765" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="9816:9827" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9866:9872" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="9927:9938" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="9968:9974" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10020:10031" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10065:10071" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10109:10120" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10146:10152" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10194:10205" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10235:10241" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10287:10298" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10332:10338" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10377:10388" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10415:10421" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10472:10483" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10522:10528" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10564:10575" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10599:10605" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10641:10652" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10676:10682" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10723:10734" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10763:10769" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10841:10852" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10893:10899" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="10944:10955" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="10978:10984" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="11047:11058" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="11085:11091" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="11175:11256" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="11360:11461" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="11579:11694" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="11792:11887" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="11935:11946" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="11973:11979" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="12027:12038" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="12065:12071" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="12127:12138" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="12173:12179" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="12235:12246" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="12281:12287" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="12375:12460" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="12554:12645" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="12711:12722" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="12767:12773" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="12857:12938" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="13036:13131" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="13206:13275" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="13337:13348" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="13389:13395" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="13463:13474" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="13521:13527" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="13569:13580" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="13601:13607" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="13703:13796" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="13889:13976" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="14066:14153" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="14261:14366" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="14462:14555" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="14669:14780" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="14843:14854" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="14883:14889" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="14942:14953" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="14984:14990" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="15078:15159" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="15226:15237" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="15282:15288" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="15360:15425" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="15480:15491" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="15524:15530" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="15585:15596" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="15629:15635" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="15718:15795" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="15873:15932" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="16006:16073" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="16130:16141" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="16176:16182" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="16246:16257" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="16300:16306" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="16379:16446" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="16505:16516" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="16553:16559" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="16643:16720" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="16772:16783" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="16814:16820" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="16872:16883" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="16914:16920" ph=" }" />
+            <marker date="1528723009780" expanded="false" signature="16982:16993" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="17034:17040" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="17078:36780" ph="{...}" />
+            <marker date="1528723009780" expanded="false" signature="36826:36837" ph=" { " />
+            <marker date="1528723009780" expanded="false" signature="36884:36890" ph=" }" />
+            <marker date="1528723009780" expanded="true" signature="36918:41931" ph="{...}" />
+            <marker date="1528723009780" expanded="true" signature="41962:44815" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/archaius/archaius-core/0.7.4/archaius-core-0.7.4.jar!/com/netflix/config/DynamicPropertyFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1528723037949" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528723037949" expanded="false" signature="142:254" ph="..." />
+            <marker date="1528723037949" expanded="true" signature="617:635" ph="/**...*/" />
+            <marker date="1528723037949" expanded="true" signature="751:769" ph="/**...*/" />
+            <marker date="1528723037949" expanded="true" signature="1301:1319" ph="/**...*/" />
+            <marker date="1528723037949" expanded="true" signature="1587:1594" ph="{}" />
+            <marker date="1528723037949" expanded="true" signature="1695:2465" ph="{...}" />
+            <marker date="1528723037949" expanded="false" signature="2525:2536" ph=" { " />
+            <marker date="1528723037949" expanded="false" signature="2572:2578" ph=" }" />
+            <marker date="1528723037949" expanded="true" signature="2637:2810" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="2894:2959" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="3032:3096" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="3214:4957" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="5017:5287" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="5344:6078" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="6134:6299" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="6390:6476" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="6600:6811" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="6893:6976" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="7091:7296" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="7381:7465" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="7583:7790" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="7884:7971" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="8098:8311" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="8399:8484" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="8605:8814" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="8905:8991" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="9115:9326" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="9427:9517" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="9651:9873" ph="{...}" />
+            <marker date="1528723037949" expanded="true" signature="9958:10056" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/archaius/archaius-core/0.7.4/archaius-core-0.7.4-sources.jar!/com/netflix/config/DynamicPropertyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="42" column="76" lean-forward="false" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/shared/transport/EurekaHttpClientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.7.RELEASE/spring-cloud-netflix-eureka-client-1.2.7.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1439">
+          <caret line="483" column="20" lean-forward="false" selection-start-line="483" selection-start-column="20" selection-end-line="483" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/EurekaClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="54" column="17" lean-forward="false" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DefaultEurekaClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="71" column="84" lean-forward="false" selection-start-line="71" selection-start-column="84" selection-end-line="71" selection-end-column="84" />
+          <folding>
+            <element signature="e#3233#3234#0" expanded="false" />
+            <element signature="e#3272#3273#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/appinfo/ApplicationInfoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="47" column="35" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/appinfo/MyDataCenterInstanceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="30" column="63" lean-forward="true" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/appinfo/PropertiesInstanceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="50" column="22" lean-forward="false" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.7.RELEASE/spring-cloud-netflix-eureka-client-1.2.7.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/CloudEurekaClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding>
+            <element signature="e#1290#1291#0" expanded="false" />
+            <element signature="e#1326#1327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/resources/eureka-client.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-web/3.5.1/vertx-web-3.5.1.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-service-discovery-bridge-consul/3.5.1/vertx-service-discovery-bridge-consul-3.5.1.jar!/io/vertx/servicediscovery/consul/ConsulServiceImporter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1566">
+          <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <marker date="1528728168981" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528728168981" expanded="false" signature="156:1027" ph="..." />
+            <marker date="1528728168981" expanded="true" signature="1428:1435" ph="{}" />
+            <marker date="1528728168981" expanded="true" signature="1551:2891" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="2082:2883" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="2308:2732" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="2447:2643" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="2955:3198" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="2979:3191" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="3291:3556" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="3337:3548" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="3667:6045" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="3761:4184" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="3908:4139" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="4243:6037" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="4478:4547" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="5080:5352" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="5481:5786" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="6142:7941" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="7265:7572" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="7725:7922" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="7992:9243" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="8263:8319" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="8511:8641" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="9326:9624" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="9694:10792" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="9882:10314" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="9967:10248" ph="{...}" />
+            <marker date="1528728168981" expanded="true" signature="10370:10784" ph="{...}" />
+            <marker date="1528728168981" expanded="false" signature="10847:10858" ph=" { " />
+            <marker date="1528728168981" expanded="false" signature="10879:10885" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-consul-client/3.5.1/vertx-consul-client-3.5.1.jar!/io/vertx/ext/consul/Service.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-service-discovery/3.5.1/vertx-service-discovery-3.5.1-sources.jar!/io/vertx/servicediscovery/spi/ServiceImporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="49" column="38" lean-forward="false" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="46" column="29" lean-forward="false" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/verticle/EurekaBridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-service-discovery-bridge-consul/3.5.1/vertx-service-discovery-bridge-consul-3.5.1-sources.jar!/io/vertx/servicediscovery/consul/ConsulServiceImporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="99" column="17" lean-forward="true" selection-start-line="99" selection-start-column="17" selection-end-line="99" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/io/vertx/vertx-service-discovery-bridge-consul/3.5.1/vertx-service-discovery-bridge-consul-3.5.1-sources.jar!/io/vertx/servicediscovery/consul/ImportedConsulService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="65" column="60" lean-forward="false" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/verticle/MyTestVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/MainLancher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/shared/transport/decorator/RetryableEurekaHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/shared/transport/EurekaHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="83" column="19" lean-forward="false" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+          <folding>
+            <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="557" column="6" lean-forward="true" selection-start-line="557" selection-start-column="6" selection-end-line="557" selection-end-column="6" />
+          <folding>
+            <element signature="e#24192#24193#0" expanded="true" />
+            <element signature="e#24236#24237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/repository/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="206" column="32" lean-forward="true" selection-start-line="206" selection-start-column="32" selection-end-line="206" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eureka/client/src/main/java/com/bian/DiscoveryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
